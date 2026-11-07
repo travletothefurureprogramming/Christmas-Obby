@@ -8,12 +8,12 @@ Christmas Obby is a Christmas-themed obstacle course game on Roblox. The goal is
 - Platform: Roblox
 - Genre: Obby
 - Status: Beta
-- Stages: 170
+- Stages: 200
 - Game link: [Play Christmas Obby](https://www.roblox.com/games/91579596930314/Christmas-Obby-Progress-May-Be-Lost)
 
 ## Features
 
-- 170 stages to complete
+- 200 stages to complete
 - Checkpoint system
 - Coins system
 - Player leaderboard
@@ -26,7 +26,7 @@ Christmas Obby is a Christmas-themed obstacle course game on Roblox. The goal is
 2. Complete the obstacles to move to the next stages.
 3. Reach checkpoints to track your progress.
 4. Collect Coins while playing.
-5. Try to complete all 170 stages.
+5. Try to complete all 200 stages.
 
 ## Beta Notice
 
@@ -44,11 +44,11 @@ Christmas Obby is developed using Roblox Studio. I am still working on improving
 
 | Feature | Status |
 |---|---|
-| Stages | 170 created |
+| Stages | 200 created |
 | Checkpoints | Implemented |
 | Coins | Implemented |
 | Leaderboard | Implemented |
-| Data Saving | Implemented, still being tested |
+| Data Saving | Implemented|
 | Overall Game | Beta |
 
 ## License
