@@ -1,7 +1,7 @@
 
 # Christmas Obby
 
-(!Thumbail)[images/CHRISTMAS OBBY.png]
+(Thumbail)[images/CHRISTMAS OBBY.png]
 
 Christmas Obby is a Christmas-themed obstacle course game on Roblox. The goal is to complete the stages, reach checkpoints and collect Coins along the way.
 
