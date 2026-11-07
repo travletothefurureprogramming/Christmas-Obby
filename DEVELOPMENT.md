@@ -9,7 +9,7 @@ The project focuses on creating stages, adding gameplay systems and improving th
 
 ## Current Progress
 
-The game currently has 170 stages.
+The game currently has 200 stages.
 
 The following systems have been implemented:
 
